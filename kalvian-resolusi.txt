@@ -1,5 +1,6 @@
 DAFTAR RESOSULI
 1. membuat 1 artikel 1 minggu
-2. membuat 1 video 1 minggu
+
 3. membuat 1 project per 2 minggu
 4. membuat 1 project seperti udemy
+5. membuat project untuk lksa sistem absensi
